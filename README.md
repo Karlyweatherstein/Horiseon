@@ -19,3 +19,5 @@
   THEN they fall in sequential order
 - WHEN I view the title element
   THEN I find a concise, descriptive title
+
+![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/95808330/152670913-b4dc578d-218b-49ba-8799-c3a449f79ee4.png)
